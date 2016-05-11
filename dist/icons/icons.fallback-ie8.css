@@ -1,0 +1,9 @@
+
+.icon-pdf {
+
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='png/pdf.png', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='png/pdf.png', sizingMethod='scale')";
+
+}
+
+
