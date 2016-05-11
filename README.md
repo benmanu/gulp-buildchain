@@ -10,7 +10,6 @@ Run the following commands from the theme/project folder:
 
 ```shell
     npm install
-    npm update      # to update all dependencies
 ```
 
 All packages and their dependencies will be installed.
@@ -34,5 +33,10 @@ Tasks:
     npm run js:dev      # generates an un-uglified js bundle.
     npm run js:watch    # runs the js watcher.
     npm run lint        # runs a linter over the js code.
-    npm run images      # copies and optimizes images, converts svg's into png's.
+    npm run icons       # Converts svg's into css files through grunticon.
 ```
+
+## Links
+
+- https://github.com/filamentgroup/gulpicon
+- https://github.com/filamentgroup/grunticon
